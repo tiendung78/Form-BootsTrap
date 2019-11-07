@@ -1,0 +1,23 @@
+.box{
+	background: green;
+	height: 70px;
+}
+.box1{
+	width: 93%;
+	height: 100px;
+	margin-left: 40px;
+	
+}
+.box2{
+	width: 93%;
+	height: 70px;
+	margin-left: 40px;
+	background: #9DF7F6;
+	
+}
+.box3{
+	width: 93%;
+	height: 50px;
+	margin-left: 40px;
+	background: #0A58C2;
+}
